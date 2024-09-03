@@ -1,0 +1,3 @@
+unique pointer - tylko jeden taki wskaźnik może być powiązany z konkretnym obiektem. nie można go kopiować ani przenosić. jest wydajny i zwalnia zasoby, z którymi jest powiązany, od razu po jego usunięciu.
+
+shared pointer - można stworzyć kilka takich wskaźników do jednego obiektu. pamięć jest zwalniana dopiero po usunięciu wszystkich shared_ptr.

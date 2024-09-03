@@ -1,0 +1,7 @@
+polimorfizm dynamiczny - decydowanie o tym, która wersja nadpisanej metody jest wywołana następuje nie w momencie kompilacji, a w trakcie trwania programu, w oparciu o typ obiektu. Polega na odpowiednim zastosowaniu dziedziczenia i nadpisywaniu metod
+
+polimorfizm statyczny - opiera się na stosowaniu szablonów; wywołanie konkretnej funkcji w konkretnym momencie ustalane jest na etapie kompilacji
+
+klasa abstrakcyjna - klasa, która domyślnie jest jedynie klasą bazową. Musi posiadać przynajmniej jedną metodę czysto wirtualną
+
+funkcja wirtualna - metoda klasy, która powinna zostać ponownie zdefiniowana w klasach pochodnych

@@ -1,0 +1,9 @@
+1. Opisz funkcję oraz zastosowanie wzorca projektowego Singleton, a następnie przedstaw jego implementację w języku C++. W swoim opisie uwzględnij wyjaśnienie, dlaczego wzorzec ten jest użyteczny, jakie problemy rozwiązuje oraz zaprezentuj kompletny przykład kodu, który ilustruje jego działanie i sposób użycia w praktycznej aplikacji.
+
+2. Opisz funkcję oraz zastosowanie wzorca projektowego Obserwator, a następnie przedstaw jego implementację w języku C++. W swoim opisie uwzględnij, jak wzorzec Obserwator umożliwia komunikację między obiektami w systemie, pozwalając na automatyczne powiadamianie i aktualizację zainteresowanych obiektów przy zmianie stanu. Zaprezentuj kompletny przykład kodu, który ilustruje jego działanie i sposób użycia w praktycznej aplikacji.
+
+3. Opisz funkcję oraz zastosowanie wzorca projektowego Dekorator, a następnie przedstaw jego implementację w języku C++. W swoim opisie uwzględnij, jak wzorzec Dekorator umożliwia dynamiczne dodawanie nowych funkcjonalności do obiektów bez modyfikowania ich kodu źródłowego. Zaprezentuj kompletny przykład kodu, który ilustruje jego działanie i sposób użycia w praktycznej aplikacji.
+
+4. Opisz funkcję oraz zastosowanie wzorca projektowego Adapter, a następnie przedstaw jego implementację w języku C++. W swoim opisie uwzględnij, jak wzorzec Adapter umożliwia współpracę między klasami o niekompatybilnych interfejsach poprzez przekształcanie jednego interfejsu na inny. Zaprezentuj kompletny przykład kodu, który ilustruje jego działanie i sposób użycia w praktycznej aplikacji.
+
+5. Opisz funkcję oraz zastosowanie wzorca projektowego Visitor (Odwiedzający), a następnie przedstaw jego implementację w języku C++. W swoim opisie uwzględnij, jak wzorzec Visitor umożliwia dodawanie nowych operacji do klas bez modyfikowania ich kodu, poprzez separację algorytmu od struktury obiektów. Zaprezentuj kompletny przykład kodu, który ilustruje jego działanie i sposób użycia w praktycznej aplikacji. 
