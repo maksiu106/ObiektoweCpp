@@ -1,0 +1,1 @@
+Programy napisane w ramach przedmiotu Programowanie Obiektowe w C++ podczas studiowania Informatyki Stosowanej na Uniwersytecie Jagiellońskim w roku akademickim 2023/24 w grupie ćwiczeniowej prowadzonej przez dra Marcina Misiaszka.
